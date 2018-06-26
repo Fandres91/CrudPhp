@@ -1,0 +1,50 @@
+
+body
+{
+	font-size: 20px;
+	margin: 0px;
+}
+nav
+{
+background-image:url(fondo.jpg); 
+border: 1px solid transparent;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+    text-align: center;
+    color: #ffffff;
+    text-shadow: 5px , 5px, 5px, 5px;
+    margin-bottom: 2em;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+}
+.contenido, .consulta
+{
+	width: 80%;
+	margin: auto;
+}
+input[type="text"], input[type="date"]
+{
+	background: #eee;
+	border-radius: 0.5em;
+	color: #f60;
+}
+input[type="text"]hover:, input[type="date"]hover:
+{
+	background: #f60;
+	}
+.consulta
+{
+	
+	background:#eee; 
+	width: 50%;
+	border: 2px;
+	margin: 0px auto;
+}
+.form
+{
+margin: 0px auto;
+
+}
